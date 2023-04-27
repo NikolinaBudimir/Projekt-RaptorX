@@ -1,0 +1,11 @@
+.upitna-forma {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.ime, .mail, .upit {
+    padding: 10px;
+}
